@@ -24,7 +24,7 @@ A stunning and responsive landing page created with HTML,CSS,JS and GSAP to show
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abhishekshrivastav73.github.io/CUberto-Clone.git
+git clone https://github.com/am-abdulmueed.github.io/CUberto-Clone.git
 ```
 
 2. Open the project folder:
@@ -67,4 +67,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Feel free to star ⭐ this repository if you find it helpful!**
 
-Created with ❤️ by [Abhishek Shrivastav](https://github.com/AbhishekShrivastav73)
+Created with ❤️ by [Abdul Mueed](https://github.com/am-abdulmueed)
